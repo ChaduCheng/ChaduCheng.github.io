@@ -40,6 +40,13 @@ main:
     conference: "Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2024."
     pdf: "https://aclanthology.org/2024.acl-long.276.pdf"
     image: "./assets/img/BURST.png"
+
+  - title: "ACT-Diffusion: Efficient Adversarial Consistency Training for One-step Diffusion Models"
+    authors: "Fei Kong, Jinhao Duan, Lichao Sun, <strong>Hao Cheng</strong>, Renjing Xu, Hengtao Shen, Xiaofeng Zhu, Xiaoshuang Shi, Kaidi Xu"
+    conference_short: "CVPR"
+    conference: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024."
+    pdf: "https://openaccess.thecvf.com/content/CVPR2024/html/Kong_ACT-Diffusion_Efficient_Adversarial_Consistency_Training_for_One-step_Diffusion_Models_CVPR_2024_paper.html"
+    image: "./assets/img/BURST.png"
     
   - title: "RBFormer: Improve Adversarial Robustness of Transformer by Robust Bias"
     authors: "<strong>Hao Cheng</strong>, Jinhao Duan, Hui Li, Jiahang Cao, Ping Wang, Lyutianyang Zhang, Jize Zhang, Kaidi Xu, Renjing Xu"
