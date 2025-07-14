@@ -9,7 +9,7 @@ main:
   - title: "More or Less (MoL): Defending against Multiple Perturbation Attacks on Deep Neural Networks through Model Ensemble and Compression"
     authors: "<strong>Hao Cheng</strong>, Kaidi Xu, Zhengang Li, Pu Zhao, Chenan Wang, Xue Lin, Bhavya Kailkhura, Ryan Goldhahn"
     conference_short: "WACV Workshop"
-    conference: 'IEEE/CVF Winter Conference on Applications of Computer Vision Workshops <strong>(WACVW)</strong>, 2025.'
+    conference: 'IEEE/CVF Winter Conference on Applications of Computer Vision Workshops <strong>(WACVW)</strong>, 2022.'
     pdf: "https://ieeexplore.ieee.org/abstract/document/9707590"
     image: "./assets/img/BURST.png"
 
