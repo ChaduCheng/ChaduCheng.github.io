@@ -13,7 +13,7 @@ main:
     pdf: "https://ieeexplore.ieee.org/abstract/document/9707590"
     image: "./assets/img/BURST.png"
 
-  - title: "More or Less (MoL): Defending against Multiple Perturbation Attacks on Deep Neural Networks through Model Ensemble and Compression"
+  - title: "Mixture of robust experts (more): A flexible defense against multiple perturbations"
     authors: "<strong>Hao Cheng</strong>, Kaidi Xu, Chenan Wang, Xue Lin, Bhavya Kailkhura, Ryan Goldhahn"
     conference_short: "ICLR Workshop"
     conference: 'ICLR Robust and reliable machine learning in the real world Workshop <strong>(ICLR Workshop)</strong>, 2021.'
