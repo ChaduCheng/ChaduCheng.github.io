@@ -10,19 +10,19 @@ Hello! I am a Ph.D. student at at the Hong Kong University of Science and Techno
 - **Embodied AI:** Vision Language Action Models
 
 ## Education:
-- the Hong Kong University of Science and Technology (HKUST),   Cross-campus Study Ph.D.,   08/2025 - 02/2026,   HongKong, China SAR
-- the Hong Kong University of Science and Technology (HKUST), Guangzhou,   Ph.D.,    09/2022 - 05/2026,  Guangzhou, China
-- Northeastern University,   Ph.D.,   09/2020 - 09/2022,   Boston, USA
-- Xi'an Jiaotong University,   Master,   09/2017 - 07/2020,    Xi'an, China
-- Hebei University of Technology,    B.E.,   09/2013 - 06/2017,   Tianjing, China
+- **the Hong Kong University of Science and Technology**,   Cross-campus Study Ph.D.,   08/2025 - 02/2026,   HongKong, China SAR
+- **the Hong Kong University of Science and Technology, Guangzhou**,   Ph.D.,    09/2022 - 05/2026,  Guangzhou, China
+- **Northeastern University**,   Ph.D.,   09/2020 - 09/2022,   Boston, USA
+- **Xi'an Jiaotong University**,   Master,   09/2017 - 07/2020,    Xi'an, China
+- **Hebei University of Technology**,    B.E.,   09/2013 - 06/2017,   Tianjing, China
 
 ## Working Experimence:
-- Beijing Innovation Center of Humanoid Robotics Co., Ltd.,   Research Intern.,   07/2025 - now,   Beijing, China
-- University of Oxford,   Research Intern.,   11/2023 - now,   Online
-- SAMSUNG AI Research Center(SARC), Xi’an,   Research Intern,    04/2021 - 09/2021,  Xi'an, China
-- Alibaba DAMO Lab-Itelligent Computing Lab,   Research Intern.,   08/2020 - 03/2021,  Shanghai, China
-- Northeastern University,   Research Intern,   01/2019 - 06/2019,   Boston, USA
-- National University of Singapore,    Research Intern,   06/2018 - 08/2018,   Singapore
+- **Beijing Innovation Center of Humanoid Robotics Co., Ltd.**,   Research Intern.,   07/2025 - now,   Beijing, China
+- **University of Oxford**,   Research Intern.,   11/2023 - now,   Online
+- **SAMSUNG AI Research Center(SARC), Xi’an**,   Research Intern,    04/2021 - 09/2021,  Xi'an, China
+- **Alibaba DAMO Lab-Itelligent Computing Lab**,   Research Intern.,   08/2020 - 03/2021,  Shanghai, China
+- **Northeastern University**,   Research Intern,   01/2019 - 06/2019,   Boston, USA
+- **National University of Singapore**,    Research Intern,   06/2018 - 08/2018,   Singapore
 
 ## News
 <div style="height:300px; overflow-y:auto; border:1px solid #ddd; padding:15px; margin-bottom:30px; background-color:#ffffff;">
