@@ -4,12 +4,26 @@ layout: homepage
 
 ## About Me
 
-Hello! I am a Ph.D. student at at the Hong Kong University of Science and Technology (HKUST), Guangzhou. Prior to joining HKUST, I pursued my Ph.D. in Computer Engineering at Northeastern University, Boston.
-I obtained my master and bachelor degree from Xi'an Jiaotong University and Hebei University of Technology.
+Hello! I am a Ph.D. student at at the Hong Kong University of Science and Technology (HKUST), Guangzhou. I am interested in trustworthy, efficient AI. My current research primarily focuses on ensuring the trustworthiness, robustness, and efficiency of various AI models, which is including:
 
+- **Generative AI:** Diffusion Models, Large Language Models, Multimodal Large Language Models, Large Audio Language Models
+- **Embodied AI:** Vision Language Action Models
 
-<!-- <span style="color:red">Currently seeking summer internships for 2024!</span> -->
-<!-- <b><font color="#cc0000">Currently seeking summer internships for 2024!</font></b><br> -->
+## Education:
+- the Hong Kong University of Science and Technology (HKUST),   Cross-campus Study Ph.D.,   08/2025 - 02/2026,   HongKong, China SAR
+- the Hong Kong University of Science and Technology (HKUST), Guangzhou,   Ph.D.,    09/2022 - 05/2026,  Guangzhou, China
+- Northeastern University,   Ph.D.,   09/2020 - 09/2022,   Boston, USA
+- Xi'an Jiaotong University,   Master,   09/2017 - 07/2020,    Xi'an, China
+- Hebei University of Technology,    B.E.,   09/2013 - 06/2017,   Tianjing, China
+
+## Working Experimence:
+- Beijing Innovation Center of Humanoid Robotics Co., Ltd.,   Research Intern.,   07/2025 - now,   Beijing, China
+- University of Oxford,   Research Intern.,   11/2023 - now,   Online
+- SAMSUNG AI Research Center(SARC), Xi’an,   Research Intern,    04/2021 - 09/2021,  Xi'an, China
+- Alibaba DAMO Lab-Itelligent Computing Lab,   Research Intern.,   08/2020 - 03/2021,  Shanghai, China
+- Northeastern University,   Research Intern,   01/2019 - 06/2019,   Boston, USA
+- National University of Singapore,    Research Intern,   06/2018 - 08/2018,   Singapore
+
 
 ## Research Interests
 
