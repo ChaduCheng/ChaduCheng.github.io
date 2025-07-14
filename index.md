@@ -7,7 +7,6 @@ layout: homepage
 Hello! I am a Ph.D. student at at the Hong Kong University of Science and Technology (HKUST), Guangzhou. Prior to joining HKUST, I pursued my Ph.D. in Computer Engineering at Northeastern University, Boston.
 I obtained my master and bachelor degree from Xi'an Jiaotong University and Hebei University of Technology.
 
-Other than my work, I am a big fan of the Golden State Warriors. My favorite basketball player is Steph Curry. Go Warriors!
 
 <!-- <span style="color:red">Currently seeking summer internships for 2024!</span> -->
 <!-- <b><font color="#cc0000">Currently seeking summer internships for 2024!</font></b><br> -->
