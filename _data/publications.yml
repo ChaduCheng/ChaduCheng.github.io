@@ -54,3 +54,17 @@ main:
     conference: "The International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2023."
     pdf: "https://www.ijcai.org/proceedings/2023/0079.pdf"
     image: "./assets/img/BURST.png"
+
+  - title: "Improve Video Representation with Temporal Adversarial Augmentation"
+    authors: "Jinhao Duan, Quanfu Fan, <strong>Hao Cheng</strong>, Xiaoshuang Shi, Kaidi Xu"
+    conference_short: "IJCAI"
+    conference: "The International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2023."
+    pdf: "https://www.ijcai.org/proceedings/2023/0079.pdf"
+    image: "./assets/img/BURST.png"
+
+  - title: "Early Termination of Intra Mode Decision Based on Most Probable Mode and SATD for H. 264/AVC encoding"
+    authors: "Ping Wang, <strong>Hao Cheng</strong>"
+    #conference_short: "IJCAI"
+    conference: "Journal of Signal Processing Systems."
+    pdf: "https://link.springer.com/article/10.1007/s11265-019-01455-8"
+    image: "./assets/img/BURST.png"
