@@ -24,14 +24,6 @@ Hello! I am a Ph.D. student at at the Hong Kong University of Science and Techno
 - Northeastern University,   Research Intern,   01/2019 - 06/2019,   Boston, USA
 - National University of Singapore,    Research Intern,   06/2018 - 08/2018,   Singapore
 
-
-## Research Interests
-
-I am interested in trustworthy, efficient AI. My current research primarily focuses on ensuring the trustworthiness, robustness, and efficiency of various AI models, which is including:
-
-- **Generative AI:** Diffusion Models, Large Language Models, Multimodal Large Language Models, Large Audio Language Models
-- **Embodied AI:** Vision Language Action Models
-
 ## News
 <div style="height:300px; overflow-y:auto; border:1px solid #ddd; padding:15px; margin-bottom:30px; background-color:#ffffff;">
 - [07/2025] &nbsp;One paper is accepted to ACM MM 2025.<br>
