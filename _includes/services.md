@@ -1,6 +1,6 @@
 ## Professional Services
 
-<h4 style="margin:0 10px 0;">Program Committee</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://neurips.cc/"><autocolor>NeurIPS'24, 25</autocolor></a></li>
