@@ -23,6 +23,6 @@ main:
   - title: "Defending against backdoor attack on deep neural networks"
     authors: "<strong>Hao Cheng</strong>, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Pu Zhao, Xue Lin"
     conference_short: "KDD Workshop"
-    conference: 'KDD Workshop on Adversarial Learning Methods for Machine Learning and Data Mining <strong>(kdd AdvML)</strong>, 2019.'
+    conference: 'KDD Workshop on Adversarial Learning Methods for Machine Learning and Data Mining <strong>(KDD AdvML)</strong>, 2019.'
     pdf: "https://sites.google.com/view/advml/Home/advml-2019"
     image: "./assets/img/BURST.png"
