@@ -1,8 +1,28 @@
 main:
-  - title: "Brain Diffusion: Reconstruct Brain Dynamic from Text Stimula"
-    # pdf: https://arxiv.org/pdf/2306.17046.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    code: https://github.com/duanyiqun/Brain-Diffusion
-    image: ./assets/img/braindiffusion.gif
+  - title: "Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models"
+    authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Yichi Wang, Kaidi Xu, Mengshu Sun, Jindong Gu, Renjing Xu"
+    conference_short: "IJCAI Workshop"
+    conference: '<b><font color="#cc0000">[Best Paper Award]</font></b> The International Joint Conferences on Artificial Intelligence Workshop on Deepfake Detection, Localization, and Interpretability <strong>(IJCAI Workshop)</strong>, 2025.'
+    pdf: "https://arxiv.org/abs/2503.11519"
+    image: "./assets/img/BURST.png"
+
+  - title: "More or Less (MoL): Defending against Multiple Perturbation Attacks on Deep Neural Networks through Model Ensemble and Compression"
+    authors: "<strong>Hao Cheng</strong>, Kaidi Xu, Zhengang Li, Pu Zhao, Chenan Wang, Xue Lin, Bhavya Kailkhura, Ryan Goldhahn"
+    conference_short: "WACV Workshop"
+    conference: 'IEEE/CVF Winter Conference on Applications of Computer Vision Workshops <strong>(WACVW)</strong>, 2025.'
+    pdf: "https://ieeexplore.ieee.org/abstract/document/9707590"
+    image: "./assets/img/BURST.png"
+
+  - title: "More or Less (MoL): Defending against Multiple Perturbation Attacks on Deep Neural Networks through Model Ensemble and Compression"
+    authors: "<strong>Hao Cheng</strong>, Kaidi Xu, Chenan Wang, Xue Lin, Bhavya Kailkhura, Ryan Goldhahn"
+    conference_short: "ICLR Workshop"
+    conference: 'ICLR Robust and reliable machine learning in the real world Workshop <strong>(ICLR Workshop)</strong>, 2021.'
+    pdf: "https://iclr.cc/virtual/2021/workshop/2129"
+    image: "./assets/img/BURST.png"
+
+  - title: "Defending against backdoor attack on deep neural networks"
+    authors: "<strong>Hao Cheng</strong>, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Pu Zhao, Xue Lin"
+    conference_short: "KDD Workshop"
+    conference: 'KDD Workshop on Adversarial Learning Methods for Machine Learning and Data Mining <strong>(kdd AdvML)</strong>, 2019.'
+    pdf: "https://sites.google.com/view/advml/Home/advml-2019"
+    image: "./assets/img/BURST.png"
