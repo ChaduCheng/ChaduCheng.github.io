@@ -63,7 +63,7 @@ main:
     image: "./assets/img/BURST.png"
 
   - title: "Adversarial robustness vs. model compression, or both?"
-    authors: "Shaokai Ye, Kaidi Xu, Sijia Liu, <strong>Hao Cheng</strong>, Jan-Henrik Lambrechts, Huan Zhang, Aojun Zhou, Kaisheng Ma, Yanzhi Wang, Xue Lin"
+    authors: "Shaokai Ye*, Kaidi Xu*, Sijia Liu, <strong>Hao Cheng</strong>, Jan-Henrik Lambrechts, Huan Zhang, Aojun Zhou, Kaisheng Ma, Yanzhi Wang, Xue Lin"
     conference_short: "ICCV"
     conference: "International Conference on Computer Vision <strong>(ICCV)</strong>, 2019."
     pdf: "https://openaccess.thecvf.com/content_ICCV_2019/html/Ye_Adversarial_Robustness_vs._Model_Compression_or_Both_ICCV_2019_paper.html"
