@@ -1,6 +1,6 @@
 main:
   - title: "Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models"
-    authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Yichi Wang, Kaidi Xu, Mengshu Sun, Jindong Gu, Renjing Xu"
+    authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Yichi Wang, Kaidi Xu, Mengshu Sun, Jindong Gu†, Renjing Xu†"
     conference_short: "IJCAI Workshop"
     conference: '<b><font color="#cc0000">[Best Paper Award]</font></b> The International Joint Conferences on Artificial Intelligence Workshop on Deepfake Detection, Localization, and Interpretability <strong>(IJCAI Workshop)</strong>, 2025.'
     pdf: "https://arxiv.org/abs/2503.11519"
