@@ -30,7 +30,7 @@ main:
   - title: "Gaining the Sparse Rewards by Exploring Lottery Tickets in Spiking Neural Network"
     authors: "<strong>Hao Cheng</strong>, Jiahang Cao, Erjia Xiao, Mengshu Sun, Renjing Xu"
     conference_short: "IROS"
-    conference: '<b><font color="#cc0000">[Oral]</font></b> IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.'
+    conference: '<b><font color="#cc0000">[Pitch Oral]</font></b> IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2024.'
     pdf: "https://ieeexplore.ieee.org/abstract/document/10802854"
     image: "./assets/img/BURST.png"
     
