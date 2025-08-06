@@ -11,7 +11,7 @@ main:
     conference_short: "ICCV"
     conference: "International Conference on Computer Vision <strong>(ICCV)</strong>, 2025."
     pdf: "https://arxiv.org/abs/2503.10602"
-    image: "./assets/img/MST.png"
+    image: "./assets/img/ICCV2025.png"
     
   - title: "Not Just Text: Uncovering Vision Modality Typographic Threats in Image Generation Models"
     authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Jiayan Yang, Jiahang Cao, Qiang Zhang, Jize Zhang, Kaidi Xu, Jindong Gu†, Renjing Xu†"
