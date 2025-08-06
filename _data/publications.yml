@@ -4,7 +4,7 @@ main:
     conference_short: "ACM MM"
     conference: "ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2025."
     pdf: "https://arxiv.org/abs/2405.20090"
-    image: "./assets/img/MST.png"
+    image: "./assets/img/ACMMM.png"
     
   - title: "Truthprint: Mitigating lvlm object hallucination via latent truthful-guided pre-intervention"
     authors: "Jinhao Duan*, Fei Kong*, <strong>Hao Cheng</strong>, James Diffenderfer, Bhavya Kailkhura, Lichao Sun, Xiaofeng Zhu, Xiaoshuang Shi, Kaidi Xu"
