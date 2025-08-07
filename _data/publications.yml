@@ -1,4 +1,11 @@
 main:
+- title: "Jailbreak-AudioBench: In-Depth Evaluation and Analysis of Jailbreak Threats for Large Audio Language Models"
+    authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Jing Shao*, Yichi Wang, Le Yang, Chao Shen, Philip Torr, Jindong Gu†, Renjing Xu†"
+    conference_short: "ACM MM"
+    conference: "PrePrint, 2025."
+    pdf: "https://arxiv.org/abs/2501.13772"
+    image: "./assets/img/NeurIPS.png"
+    
   - title: "Transfer Attack for Bad and Good: Explain and Boost Adversarial Transferability across Multimodal Large Language Models"
     authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Jiayan Yang, Jinhao Duan, Yichi Wang, Jiahang Cao, Qiang Zhang, Le Yang, Kaidi Xu, Jindong Gu†, Renjing Xu†"
     conference_short: "ACM MM"
