@@ -4,6 +4,7 @@ main:
     conference_short: "Preprint"
     conference: "Preprint, 2025."
     pdf: "https://arxiv.org/abs/2501.13772"
+    code: "https://researchtopic.github.io/Jailbreak-AudioBench_Page/"
     image: "./assets/img/NeurIPS2025.png"
     
   - title: "Transfer Attack for Bad and Good: Explain and Boost Adversarial Transferability across Multimodal Large Language Models"
