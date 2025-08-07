@@ -1,8 +1,8 @@
 main:
-- title: "Jailbreak-AudioBench: In-Depth Evaluation and Analysis of Jailbreak Threats for Large Audio Language Models"
+  - title: "Jailbreak-AudioBench: In-Depth Evaluation and Analysis of Jailbreak Threats for Large Audio Language Models"
     authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Jing Shao*, Yichi Wang, Le Yang, Chao Shen, Philip Torr, Jindong Gu†, Renjing Xu†"
-    conference_short: "ACM MM"
-    conference: "PrePrint, 2025."
+    conference_short: "Preprint"
+    conference: "Preprint, 2025."
     pdf: "https://arxiv.org/abs/2501.13772"
     image: "./assets/img/NeurIPS.png"
     
