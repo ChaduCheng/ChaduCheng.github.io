@@ -4,15 +4,15 @@ main:
     conference_short: "Preprint"
     conference: 'Preprint, 2025.'
     pdf: "https://arxiv.org/pdf/2507.20217"
-    image: "./assets/img/Proj2025-2.png"
     code: "https://humanoid-occupancy.github.io/"
+    image: "./assets/img/H2.png"
 
   - title: "HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots"
     authors: "Qiang Zhang, Zhang Zhang, Wei Cui, Jingkai Sun, Jiahang Cao, Yijie Guo, Gang Han, Wen Zhao, Jiaxu Wang, Chenghao Sun, Lingfeng Zhang, <strong>Hao Cheng</strong>, Yujie Chen, Lin Wang, Jian Tang, Renjing Xu"
     conference_short: "Preprint"
     conference: 'Preprint, 2025.'
     pdf: "https://arxiv.org/pdf/2503.09010"
-    image: "./assets/img/Proj2025-1.png"
+    image: "./assets/img/H1.png"
 
   - title: "Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models"
     authors: "<strong>Hao Cheng</strong>, Erjia Xiao*, Chengyuan Yu, Yao Zhao, Jiahang Cao, Qiang Zhang, Jiaxu Wang, Mengshu Sun, Kaidi Xu, Jindong Gu†, Renjing Xu†"
