@@ -1,28 +1,36 @@
 main:
-  - title: "Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models"
-    authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Yichi Wang, Linfeng Zhang, Kaidi Xu, Mengshu Sun, Xiaoshuai Hao†, Jindong Gu†, Renjing Xu†"
-    conference_short: "IJCAI Workshop"
-    conference: '<b><font color="#cc0000">[Best Paper Award]</font></b> The International Joint Conferences on Artificial Intelligence Workshop on Deepfake Detection, Localization, and Interpretability <strong>(IJCAI Workshop)</strong>, 2025.'
-    pdf: "https://arxiv.org/abs/2503.11519"
-    image: "./assets/img/IJCAIW.png"
+  - title: "Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots"
+    authors: "Wei Cui, Haoyu Wang, Wenkang Qin, Yijie Guo, Gang Han, Wen Zhao, Jiahang Cao, Zhang Zhang, Jiaru Zhong, Jingkai Sun, Pihai Sun, Shuai Shi, Botuo Jiang, Jiahao Ma, Jiaxu Wang, <strong>Hao Cheng</strong>, Zhichao Liu, Yang Wang, Zheng Zhu, Guan Huang, Jian Tang, Qiang Zhang"
+    conference_short: "Preprint"
+    conference: 'Preprint, 2025.'
+    pdf: "https://arxiv.org/pdf/2507.20217"
+    image: "./assets/img/Proj2025-2.png"
+    code: "https://humanoid-occupancy.github.io/"
 
-  - title: "More or Less (MoL): Defending against Multiple Perturbation Attacks on Deep Neural Networks through Model Ensemble and Compression"
-    authors: "<strong>Hao Cheng</strong>, Kaidi Xu, Zhengang Li, Pu Zhao, Chenan Wang, Xue Lin, Bhavya Kailkhura, Ryan Goldhahn"
-    conference_short: "WACV Workshop"
-    conference: 'IEEE/CVF Winter Conference on Applications of Computer Vision Workshops <strong>(WACVW)</strong>, 2022.'
-    pdf: "https://ieeexplore.ieee.org/abstract/document/9707590"
-    image: "./assets/img/WACVW.png"
+  - title: "HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots"
+    authors: "Qiang Zhang, Zhang Zhang, Wei Cui, Jingkai Sun, Jiahang Cao, Yijie Guo, Gang Han, Wen Zhao, Jiaxu Wang, Chenghao Sun, Lingfeng Zhang, <strong>Hao Cheng</strong>, Yujie Chen, Lin Wang, Jian Tang, Renjing Xu"
+    conference_short: "Preprint"
+    conference: 'Preprint, 2025.'
+    pdf: "https://arxiv.org/pdf/2503.09010"
+    image: "./assets/img/Proj2025-1.png"
 
-  - title: "Mixture of robust experts (more): A flexible defense against multiple perturbations"
-    authors: "<strong>Hao Cheng</strong>, Kaidi Xu, Chenan Wang, Xue Lin, Bhavya Kailkhura, Ryan Goldhahn"
-    conference_short: "ICLR Workshop"
-    conference: 'ICLR Robust and reliable machine learning in the real world Workshop <strong>(ICLR Workshop)</strong>, 2021.'
-    pdf: "https://iclr.cc/virtual/2021/workshop/2129"
-    image: "./assets/img/ICLRW.png"
+  - title: "Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models"
+    authors: "<strong>Hao Cheng</strong>, Erjia Xiao*, Chengyuan Yu, Yao Zhao, Jiahang Cao, Qiang Zhang, Jiaxu Wang, Mengshu Sun, Kaidi Xu, Jindong Gu†, Renjing Xu†"
+    conference_short: "Preprint"
+    conference: 'Preprint, 2024.'
+    pdf: "https://arxiv.org/pdf/2409.13174"
+    image: "./assets/img/Proj2024.png"
 
-  - title: "Defending against backdoor attack on deep neural networks"
-    authors: "<strong>Hao Cheng</strong>, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Pu Zhao, Xue Lin"
-    conference_short: "KDD Workshop"
-    conference: 'KDD Workshop on Adversarial Learning Methods for Machine Learning and Data Mining <strong>(KDD AdvML)</strong>, 2019.'
-    pdf: "https://sites.google.com/view/advml/Home/advml-2019"
-    image: "./assets/img/KDDW.png"
+  - title: "Efficient Multi-Prize Lottery Tickets: Enhanced Accuracy, Training, and Inference Speed"
+    authors: "<strong>Hao Cheng</strong>, Pu Zhao, Yize Li, Xue Lin, James Diffenderfer, Ryan Goldhahn, Bhavya Kailkhura"
+    conference_short: "Preprint"
+    conference: 'Preprint, 2022'
+    pdf: "https://arxiv.org/pdf/2209.12839"
+    image: "./assets/img/Proj2022.png"
+
+  - title: "Jailbreak-AudioBench: In-Depth Evaluation and Analysis of Jailbreak Threats for Large Audio Language Models"
+    authors: "<strong>Hao Cheng*</strong>, Ping Wang, Chu Qi"
+    conference_short: "Preprint"
+    conference: "Preprint, 2021."
+    pdf: "https://arxiv.org/pdf/2105.14566"
+    image: "./assets/img/Proj2021.png"
