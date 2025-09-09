@@ -6,8 +6,9 @@ layout: homepage
 
 Hello! I am a Ph.D. student at at the Hong Kong University of Science and Technology (HKUST), Guangzhou. I am interested in trustworthy, efficient AI. My current research primarily focuses on ensuring the trustworthiness, robustness, and efficiency of various AI models, which is including:
 
-- **Generative AI:** Diffusion Models, Large Language Models, Multimodal Large Language Models, Large Audio Language Models
-- **Embodied AI:** Vision Language Action Models
+- **Generative AI:** Diffusion Models, Large Language Models, Multimodal Large Language Models (Large Vision Language Models, Large Audio Language Models) 
+- **Embodied AI:** Vision Language Action Models, Imitation Learning
+- **Brain-inspired AI:** Spiking Neural Network
 
 ## Education:
 - **the Hong Kong University of Science and Technology**,   Cross-campus Study Ph.D.,   08/2025 - 02/2026,   HongKong, China SAR
@@ -26,6 +27,7 @@ Hello! I am a Ph.D. student at at the Hong Kong University of Science and Techno
 
 ## News
 <div style="height:300px; overflow-y:auto; border:1px solid #ddd; padding:15px; margin-bottom:30px; background-color:#ffffff;">
+- [07/2025] &nbsp;<font color=Blue>Test</font> Best student paper award of IJCAI 2025 Workshop on Deepfake Detection, Localization, and Interpretability.<br>
 - [07/2025] &nbsp;One paper is accepted to ACM MM 2025.<br>
 - [06/2025] &nbsp;One paper is accepted to ICCV 2025.<br>
 - [06/2025] &nbsp;One paper is accepted to IJCAI 2025 Workshop on Deepfake Detection, Localization, and Interpretability and is nominated as best paper.<br>
