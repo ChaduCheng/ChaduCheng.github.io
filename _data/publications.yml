@@ -63,12 +63,12 @@ main:
     pdf: "https://aclanthology.org/2024.acl-long.276.pdf"
     image: "./assets/img/ACL2024.png"
 
-  - title: "Spiking Diffusion Models"
-    authors: "Jiahang Cao, Ziqing Wang, Hanzhong Guo, Deming Zhou, <strong>Hao Cheng</strong>, Qiang Zhang, Renjing Xu"
-    conference_short: "TAI"
-    conference: " IEEE Transactions on Artificial Intelligence <strong>(TAI)</strong>, 2024."
-    pdf: "https://ieeexplore.ieee.org/abstract/document/10665907"
-    image: "./assets/img/TAI.png"
+  # - title: "Spiking Diffusion Models"
+  #   authors: "Jiahang Cao, Ziqing Wang, Hanzhong Guo, Deming Zhou, <strong>Hao Cheng</strong>, Qiang Zhang, Renjing Xu"
+  #   conference_short: "TAI"
+  #   conference: " IEEE Transactions on Artificial Intelligence <strong>(TAI)</strong>, 2024."
+  #   pdf: "https://ieeexplore.ieee.org/abstract/document/10665907"
+  #   image: "./assets/img/TAI.png"
 
   - title: "ACT-Diffusion: Efficient Adversarial Consistency Training for One-step Diffusion Models"
     authors: "Fei Kong, Jinhao Duan, Lichao Sun, <strong>Hao Cheng</strong>, Renjing Xu, Hengtao Shen, Xiaofeng Zhu, Xiaoshuang Shi, Kaidi Xu"
