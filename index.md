@@ -31,7 +31,7 @@ Hello! I am a Ph.D. student at at the Hong Kong University of Science and Techno
 <font color=Red>Best student paper award</font> of IJCAI 2025 Workshop on Deepfake Detection, Localization, and Interpretability.<br>
 - [07/2025] &nbsp;One paper is accepted to ACM MM 2025.<br>
 - [06/2025] &nbsp;One paper is accepted to ICCV 2025.<br>
-- [06/2025] &nbsp;One paper is accepted to IJCAI 2025 Workshop on Deepfake Detection, Localization, and Interpretability and is nominated as best paper.<br>
+- [06/2025] &nbsp;One paper is accepted to IJCAI 2025 Workshop on Deepfake Detection, Localization, and Interpretability.<br>
 - [06/2025] &nbsp;I will serve as a reviewer of NeurIPS 2025, WACV 2025.<br>
 - [06/2025] &nbsp;One paper is accepted to IROS 2025.<br>
 - [04/2025] &nbsp;I will serve as a reviewer of ACM MM 2025, IROS 2025.<br>
