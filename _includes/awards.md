@@ -3,6 +3,10 @@
 <!-- <h4 style="margin:0 10px 0;">Conference Reviewers</h4> -->
 
 <ul style="margin:0 0 5px;">
+  <li><autocolor><font color=Red>Best student paper award</font> of IJCAI 2025 Workshop on Deepfake Detection, Localization, and Interpretability - 2025 </autocolor></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
   <li><autocolor>Computer Engineering Fellowship owner at Northeastern University - 2020 </autocolor></li>
 </ul>
 
