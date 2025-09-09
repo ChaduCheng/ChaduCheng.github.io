@@ -83,3 +83,31 @@ main:
     conference: "Journal of Signal Processing Systems, 2019"
     pdf: "https://link.springer.com/article/10.1007/s11265-019-01455-8"
     image: "./assets/img/Journal.png"
+
+  - title: "Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models"
+    authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Yichi Wang, Linfeng Zhang, Kaidi Xu, Mengshu Sun, Xiaoshuai Hao†, Jindong Gu†, Renjing Xu†"
+    conference_short: "IJCAI Workshop"
+    conference: '<b><font color="#cc0000">[Best Paper Award]</font></b> The International Joint Conferences on Artificial Intelligence Workshop on Deepfake Detection, Localization, and Interpretability <strong>(IJCAI Workshop)</strong>, 2025.'
+    pdf: "https://arxiv.org/abs/2503.11519"
+    image: "./assets/img/IJCAIW.png"
+
+  - title: "More or Less (MoL): Defending against Multiple Perturbation Attacks on Deep Neural Networks through Model Ensemble and Compression"
+    authors: "<strong>Hao Cheng</strong>, Kaidi Xu, Zhengang Li, Pu Zhao, Chenan Wang, Xue Lin, Bhavya Kailkhura, Ryan Goldhahn"
+    conference_short: "WACV Workshop"
+    conference: 'IEEE/CVF Winter Conference on Applications of Computer Vision Workshops <strong>(WACVW)</strong>, 2022.'
+    pdf: "https://ieeexplore.ieee.org/abstract/document/9707590"
+    image: "./assets/img/WACVW.png"
+
+  - title: "Mixture of robust experts (more): A flexible defense against multiple perturbations"
+    authors: "<strong>Hao Cheng</strong>, Kaidi Xu, Chenan Wang, Xue Lin, Bhavya Kailkhura, Ryan Goldhahn"
+    conference_short: "ICLR Workshop"
+    conference: 'ICLR Robust and reliable machine learning in the real world Workshop <strong>(ICLR Workshop)</strong>, 2021.'
+    pdf: "https://iclr.cc/virtual/2021/workshop/2129"
+    image: "./assets/img/ICLRW.png"
+
+  - title: "Defending against backdoor attack on deep neural networks"
+    authors: "<strong>Hao Cheng</strong>, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Pu Zhao, Xue Lin"
+    conference_short: "KDD Workshop"
+    conference: 'KDD Workshop on Adversarial Learning Methods for Machine Learning and Data Mining <strong>(KDD AdvML)</strong>, 2019.'
+    pdf: "https://sites.google.com/view/advml/Home/advml-2019"
+    image: "./assets/img/KDDW.png"
