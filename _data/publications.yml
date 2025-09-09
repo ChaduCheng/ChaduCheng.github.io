@@ -34,7 +34,14 @@ main:
     conference: "Proceedings of the Computer Vision and Pattern Recognition Conference <strong>(CVPR)</strong>, 2025."
     pdf: "https://openaccess.thecvf.com/content/CVPR2025/papers/Cheng_Not_Just_Text_Uncovering_Vision_Modality_Typographic_Threats_in_Image_CVPR_2025_paper.pdf"
     image: "./assets/img/CVPR2025.png"
-    
+
+  - title: "Spiking Neural Network as Adaptive Event Stream Slicer"
+    authors: "Jiahang Cao, Mingyuan Sun, Ziqing Wang, <strong>Hao Cheng</strong>, Qiang Zhang, Shibo Zhou, Renjing Xu"
+    conference_short: "NeurIPS"
+    conference: "Advances in Neural Information Processing Systems 37 <strong>(NeurIPS)</strong>, 2024."
+    pdf: "https://proceedings.neurips.cc/paper_files/paper/2024/file/893a5db6100028ec814cfd99fe92c31b-Paper-Conference.pdf"
+    image: "./assets/img/NeurIPS2024.png"
+  
   - title: "Unveiling typographic deceptions: Insights of the typographic vulnerability in large vision-language models"
     authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Jindong Gu, Le Yang, Jinhao Duan, Jize Zhang, Jiahang Cao, Kaidi Xu, Renjing Xu"
     conference_short: "ECCV"
@@ -62,7 +69,14 @@ main:
     conference: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024."
     pdf: "https://openaccess.thecvf.com/content/CVPR2024/html/Kong_ACT-Diffusion_Efficient_Adversarial_Consistency_Training_for_One-step_Diffusion_Models_CVPR_2024_paper.html"
     image: "./assets/img/CVPR2024.png"
-    
+
+  - title: "Spiking Denoising Diffusion Probabilistic Models"
+    authors: "Jiahang Cao, Ziqing Wang, Hanzhong Guo,<strong>Hao Cheng</strong>, Qiang Zhang, Renjing Xu"
+    conference_short: "WACV"
+    conference: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024."
+    pdf: "https://openaccess.thecvf.com/content/WACV2024/papers/Cao_Spiking_Denoising_Diffusion_Probabilistic_Models_WACV_2024_paper.pdf"
+    image: "./assets/img/WACV2024.png"
+
   - title: "RBFormer: Improve Adversarial Robustness of Transformer by Robust Bias"
     authors: "<strong>Hao Cheng</strong>, Jinhao Duan, Hui Li, Jiahang Cao, Ping Wang, Lyutianyang Zhang, Jize Zhang, Kaidi Xu, Renjing Xu"
     conference_short: "BMVC"
