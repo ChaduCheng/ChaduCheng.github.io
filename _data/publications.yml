@@ -78,7 +78,7 @@ main:
     image: "./assets/img/CVPR2024.png"
 
   - title: "Spiking Denoising Diffusion Probabilistic Models"
-    authors: "Jiahang Cao, Ziqing Wang, Hanzhong Guo,<strong>Hao Cheng</strong>, Qiang Zhang, Renjing Xu"
+    authors: "Jiahang Cao, Ziqing Wang, Hanzhong Guo, <strong>Hao Cheng</strong>, Qiang Zhang, Renjing Xu"
     conference_short: "WACV"
     conference: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2024."
     pdf: "https://openaccess.thecvf.com/content/WACV2024/papers/Cao_Spiking_Denoising_Diffusion_Probabilistic_Models_WACV_2024_paper.pdf"
