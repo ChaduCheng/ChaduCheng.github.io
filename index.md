@@ -8,7 +8,7 @@ Hello! I am a Ph.D. student at at the Hong Kong University of Science and Techno
 
 - **Generative AI:** Diffusion Models, Large Language Models, Multimodal Large Language Models (Large Vision Language Models, Large Audio Language Models) 
 - **Embodied AI:** Vision Language Action Models, Imitation Learning
-- **Discriminative AI:** Convolutional Neural Network, Vision Transformer, Spiking Neural Network
+- **Discriminative AI:** Convolutional Neural Network, Vision Transformer, Spiking Neural Network 
 
 ## Education:
 - **the Hong Kong University of Science and Technology**,   Cross-campus Study Ph.D.,   08/2025 - 02/2026,   HongKong, China SAR
