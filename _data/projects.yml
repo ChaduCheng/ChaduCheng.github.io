@@ -15,7 +15,7 @@ main:
     image: "./assets/img/H1.png"
 
   - title: "Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models"
-    authors: "<strong>Hao Cheng</strong>, Erjia Xiao*, Chengyuan Yu, Yao Zhao, Jiahang Cao, Qiang Zhang, Jiaxu Wang, Mengshu Sun, Kaidi Xu, Jindong Gu†, Renjing Xu†"
+    authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Chengyuan Yu, Yao Zhao, Jiahang Cao, Qiang Zhang, Jiaxu Wang, Mengshu Sun, Kaidi Xu, Jindong Gu†, Renjing Xu†"
     conference_short: "Preprint"
     conference: 'Preprint, 2024.'
     pdf: "https://arxiv.org/pdf/2409.13174"
@@ -29,7 +29,7 @@ main:
     image: "./assets/img/Proj2022.png"
 
   - title: "Jailbreak-AudioBench: In-Depth Evaluation and Analysis of Jailbreak Threats for Large Audio Language Models"
-    authors: "<strong>Hao Cheng*</strong>, Ping Wang, Chu Qi"
+    authors: "<strong>Hao Cheng</strong>, Ping Wang, Chu Qi"
     conference_short: "Preprint"
     conference: "Preprint, 2021."
     pdf: "https://arxiv.org/pdf/2105.14566"
