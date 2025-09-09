@@ -7,7 +7,7 @@ layout: homepage
 Hello! I am a Ph.D. student at at the Hong Kong University of Science and Technology (HKUST), Guangzhou. I am interested in trustworthy, efficient AI. My current research primarily focuses on ensuring the trustworthiness, robustness, and efficiency of various AI models, which is including:
 
 - **Generative AI:** Diffusion Models, Large Language Models, Multimodal Large Language Models (Large Vision Language Models, Large Audio Language Models) 
-- **Embodied AI:** Vision Language Action Models, Imitation Learning
+- **Embodied AI:** Vision Language Action Models, Imitation Learning, Humanoid Robot
 - **Discriminative AI:** Convolutional Neural Network, Vision Transformer, Spiking Neural Network 
 
 ## Education:
