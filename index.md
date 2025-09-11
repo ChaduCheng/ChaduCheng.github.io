@@ -17,7 +17,7 @@ Hello! I am a Ph.D. student at the Hong Kong University of Science and Technolog
 - **Xi'an Jiaotong University**,   Master,   09/2017 - 07/2020,    Xi'an, China
 - **Hebei University of Technology**,    B.E.,   09/2013 - 06/2017,   Tianjing, China
 
-## Working Experimence:
+## Working Experience:
 - **Beijing Innovation Center of Humanoid Robotics Co., Ltd.**,   Research Intern,   07/2025 - 09/2025,   Beijing, China
 - **Lawrence Livermore National Laboratory**, collaborator, 9/2020 - 5/2022, Online
 - **SAMSUNG AI Research Center(SARC), Xi’an**,   Research Intern,    04/2021 - 09/2021,  Xi'an, China
