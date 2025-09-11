@@ -11,8 +11,8 @@ Hello! I am a Ph.D. student at the Hong Kong University of Science and Technolog
 - **Discriminative AI:** Convolutional Neural Network, Vision Transformer, Spiking Neural Network. 
 
 ## Education:
-- **the Hong Kong University of Science and Technology**,   Cross-campus Study Ph.D.,  [Prof.Jize Zhang](https://cejize.people.ust.hk/),  08/2025 - 02/2026,  HongKong, China SAR
-- **the Hong Kong University of Science and Technology, Guangzhou**,   Ph.D.,  [Prof.Renjing Xu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=97),  09/2022 - 05/2026,  Guangzhou, China
+- **the Hong Kong University of Science and Technology**,   Cross-campus Study Ph.D.,  [Prof.Jize Zhang](https://cejize.people.ust.hk/),  08/2025 - now,  HongKong, China SAR
+- **the Hong Kong University of Science and Technology, Guangzhou**,   Ph.D.,  [Prof.Renjing Xu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=97),  09/2022 - now,  Guangzhou, China
 - **Northeastern University**,   Ph.D., [Prof.Xue "Shelley" Lin](https://coe.northeastern.edu/people/lin-xue/),  09/2020 - 09/2022, Boston, USA
 - **Xi'an Jiaotong University**,   Master,   09/2017 - 07/2020,    Xi'an, China
 - **Hebei University of Technology**,    B.E.,   09/2013 - 06/2017,   Tianjing, China
@@ -25,7 +25,7 @@ Hello! I am a Ph.D. student at the Hong Kong University of Science and Technolog
 ## Research Experience:
 - **University of Oxford**, collaborator, [Prof.Jinodng Gu]([https://drexel.edu/cci/about/directory/X/Xu-Kaidi/](https://jindonggu.github.io/)) 12/2023 - now
 - **Drexel University**, collaborator, [Prof.Kaidi Xu](https://drexel.edu/cci/about/directory/X/Xu-Kaidi/) 9/2021 - now
-- **Drexel University**, collaborator, [Dr.Bhavya Kailkhura](https://people.llnl.gov/kailkhura1) and [Prof.Kaidi Xu](https://drexel.edu/cci/about/directory/X/Xu-Kaidi/) 9/2020 - now
+- **Lawrence Livermore National Laboratory**, collaborator, [Dr.Bhavya Kailkhura](https://people.llnl.gov/kailkhura1) and [Prof.Kaidi Xu](https://drexel.edu/cci/about/directory/X/Xu-Kaidi/) 9/2020 - now
 - **Northeastern University, MIT-IBM Waston AI Lab**,   Visiting Student,  [Prof.Sijia Liu](https://lsjxjtu.github.io/),  01/2019 - 06/2019,   Boston, USA
 - **National University of Singapore**,    Visiting Student,   06/2018 - 08/2018,  Singapore
 
