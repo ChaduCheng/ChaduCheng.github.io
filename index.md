@@ -19,7 +19,7 @@ Hello! I am a Ph.D. student at the Hong Kong University of Science and Technolog
 
 ## Working Experience:
 - **Beijing Innovation Center of Humanoid Robotics Co., Ltd.**,   Research Intern,   07/2025 - 09/2025,   Beijing, China
-- **SAMSUNG AI Research Center(SARC), Xi’an**,   Research Intern,    04/2021 - 09/2021,  Xi'an, China
+- **SAMSUNG AI Research Center(SARC)**,   Research Intern,    04/2021 - 09/2021,  Xi'an, China
 - **Alibaba DAMO Lab-Itelligent Computing Lab**,   Research Intern,   08/2020 - 03/2021,  Shanghai, China
 
 ## Research Experience:
