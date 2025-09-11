@@ -23,9 +23,9 @@ Hello! I am a Ph.D. student at the Hong Kong University of Science and Technolog
 - **Alibaba DAMO Lab-Itelligent Computing Lab**,   Research Intern,   08/2020 - 03/2021,  Shanghai, China
 
 ## Research Experience:
-- **University of Oxford**, collaborator, [Prof.Jinodng Gu](https://jindonggu.github.io/), 12/2023 - now
-- **Drexel University**, collaborator, [Prof.Kaidi Xu](https://drexel.edu/cci/about/directory/X/Xu-Kaidi/), 9/2021 - now
-- **Lawrence Livermore National Laboratory**, collaborator,  [Dr.Bhavya Kailkhura](https://people.llnl.gov/kailkhura1),  9/2020 - now
+- **University of Oxford**, Collaborator, [Prof.Jinodng Gu](https://jindonggu.github.io/), 12/2023 - now
+- **Drexel University**, Collaborator, [Prof.Kaidi Xu](https://drexel.edu/cci/about/directory/X/Xu-Kaidi/), 9/2021 - now
+- **Lawrence Livermore National Laboratory**, Collaborator,  [Dr.Bhavya Kailkhura](https://people.llnl.gov/kailkhura1),  9/2020 - now
 - **Northeastern University, MIT-IBM Waston AI Lab**,   Visiting Student,  [Prof.Sijia Liu](https://lsjxjtu.github.io/),  01/2019 - 06/2019,   Boston, USA
 - **National University of Singapore**,    Visiting Student,   06/2018 - 08/2018,  Singapore
 
