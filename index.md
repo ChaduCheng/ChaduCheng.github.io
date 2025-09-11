@@ -21,8 +21,6 @@ Hello! I am a Ph.D. student at the Hong Kong University of Science and Technolog
 - **Beijing Innovation Center of Humanoid Robotics Co., Ltd.**,   Research Intern,   07/2025 - 09/2025,   Beijing, China
 - **SAMSUNG AI Research Center(SARC), Xi’an**,   Research Intern,    04/2021 - 09/2021,  Xi'an, China
 - **Alibaba DAMO Lab-Itelligent Computing Lab**,   Research Intern,   08/2020 - 03/2021,  Shanghai, China
-- **Northeastern University**,   Visiting Student,   01/2019 - 06/2019,   Boston, USA
-- **National University of Singapore**,    Visiting Student,   06/2018 - 08/2018,  Singapore
 
 ## Research Experience:
 - **University of Oxford**, collaborator, [Prof.Jinodng Gu]([https://drexel.edu/cci/about/directory/X/Xu-Kaidi/](https://jindonggu.github.io/)) 12/2023 - now
