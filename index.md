@@ -11,18 +11,22 @@ Hello! I am a Ph.D. student at the Hong Kong University of Science and Technolog
 - **Discriminative AI:** Convolutional Neural Network, Vision Transformer, Spiking Neural Network. 
 
 ## Education:
-- **the Hong Kong University of Science and Technology**,   Cross-campus Study Ph.D.,   08/2025 - 02/2026,   HongKong, China SAR
-- **the Hong Kong University of Science and Technology, Guangzhou**,   Ph.D.,    09/2022 - 05/2026,  Guangzhou, China
-- **Northeastern University**,   Ph.D.,   09/2020 - 09/2022,   Boston, USA
+- **the Hong Kong University of Science and Technology**,   Cross-campus Study Ph.D.,   08/2025 - 02/2026, Jize Zhang,  HongKong, China SAR
+- **the Hong Kong University of Science and Technology, Guangzhou**,   Ph.D.,  Renjing Xu,  09/2022 - 05/2026,  Guangzhou, China
+- **Northeastern University**,   Ph.D.,   09/2020 - 09/2022, Xue Line,  Boston, USA
 - **Xi'an Jiaotong University**,   Master,   09/2017 - 07/2020,    Xi'an, China
 - **Hebei University of Technology**,    B.E.,   09/2013 - 06/2017,   Tianjing, China
 
 ## Working Experience:
 - **Beijing Innovation Center of Humanoid Robotics Co., Ltd.**,   Research Intern,   07/2025 - 09/2025,   Beijing, China
-- **Lawrence Livermore National Laboratory**, collaborator, 9/2020 - 5/2022, Online
 - **SAMSUNG AI Research Center(SARC), Xi’an**,   Research Intern,    04/2021 - 09/2021,  Xi'an, China
 - **Alibaba DAMO Lab-Itelligent Computing Lab**,   Research Intern,   08/2020 - 03/2021,  Shanghai, China
 - **Northeastern University**,   Visiting Student,   01/2019 - 06/2019,   Boston, USA
+- **National University of Singapore**,    Visiting Student,   06/2018 - 08/2018,  Singapore
+
+## Research Experience:
+- **Northeastern University, Drexel University, Lawrence Livermore National Laboratory**, collaborator, [Dr.Bhavya Kailkhura](https://people.llnl.gov/kailkhura1), 9/2020 - 5/2022, Livermore, CA, USA
+- **Northeastern University, MIT-IBM Waston AI Lab**,   Visiting Student,  [Prof.Sijia Liu](https://lsjxjtu.github.io/),  01/2019 - 06/2019,   Boston, USA
 - **National University of Singapore**,    Visiting Student,   06/2018 - 08/2018,  Singapore
 
 ## News
