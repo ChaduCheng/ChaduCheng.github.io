@@ -25,7 +25,8 @@ Hello! I am a Ph.D. student at the Hong Kong University of Science and Technolog
 - **National University of Singapore**,    Visiting Student,   06/2018 - 08/2018,  Singapore
 
 ## Research Experience:
-- **Northeastern University, Drexel University, Lawrence Livermore National Laboratory**, collaborator, [Dr.Bhavya Kailkhura](https://people.llnl.gov/kailkhura1) and [Prof.Kaidi Xu](https://drexel.edu/cci/about/directory/X/Xu-Kaidi/) 9/2020 - 5/2022, Livermore, CA, USA
+- **Drexel University**, collaborator, [Prof.Kaidi Xu](https://drexel.edu/cci/about/directory/X/Xu-Kaidi/) 9/2020 - 5/2022, Philadelphia, Pennsylvania, USA
+- **Drexel University**, collaborator, [Dr.Bhavya Kailkhura](https://people.llnl.gov/kailkhura1) and [Prof.Kaidi Xu](https://drexel.edu/cci/about/directory/X/Xu-Kaidi/) 9/2020 - 5/2022, Livermore, CA, USA
 - **Northeastern University, MIT-IBM Waston AI Lab**,   Visiting Student,  [Prof.Sijia Liu](https://lsjxjtu.github.io/),  01/2019 - 06/2019,   Boston, USA
 - **National University of Singapore**,    Visiting Student,   06/2018 - 08/2018,  Singapore
 
