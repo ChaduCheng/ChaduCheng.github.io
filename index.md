@@ -24,8 +24,8 @@ Hello! I am a Ph.D. student at the Hong Kong University of Science and Technolog
 
 ## Research Experience:
 - **University of Oxford**, Collaborator, [Dr.Jinodng Gu](https://jindonggu.github.io/), 12/2023 - now
-- **Drexel University**, Collaborator, [Prof.Kaidi Xu](https://drexel.edu/cci/about/directory/X/Xu-Kaidi/), 9/2021 - now
-- **Lawrence Livermore National Laboratory**, Collaborator,  [Dr.Bhavya Kailkhura](https://people.llnl.gov/kailkhura1),  9/2020 - now
+- **Drexel University**, Collaborator, [Prof.Kaidi Xu](https://drexel.edu/cci/about/directory/X/Xu-Kaidi/), 01/2019 - now
+- **Lawrence Livermore National Laboratory**, Collaborator,  [Dr.Bhavya Kailkhura](https://people.llnl.gov/kailkhura1),  04/2020 - now
 - **Northeastern University, MIT-IBM Waston AI Lab**,   Visiting Student,  [Prof.Sijia Liu](https://lsjxjtu.github.io/),  01/2019 - 06/2019,   Boston, USA
 - **National University of Singapore**,    Visiting Student,   06/2018 - 08/2018,  Singapore
 
