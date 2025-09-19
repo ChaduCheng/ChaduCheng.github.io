@@ -31,7 +31,8 @@ Hello! I am a Ph.D. student at the Hong Kong University of Science and Technolog
 
 ## News
 <div style="height:300px; overflow-y:auto; border:1px solid #ddd; padding:15px; margin-bottom:30px; background-color:#ffffff;">
-- [07/2025] &nbsp; <img width="20" height="18" alt="image" src="https://github.com/user-attachments/assets/063665ea-4273-4695-b418-1283cac87f58" />
+- [09/2025] &nbsp;One paper is accepted to NeurIPS 2025 D&B Track.<br>
+- [08/2025] &nbsp; <img width="20" height="18" alt="image" src="https://github.com/user-attachments/assets/063665ea-4273-4695-b418-1283cac87f58" />
 <font color=Red>Best student paper award</font> of IJCAI 2025 Workshop on Deepfake Detection, Localization, and Interpretability.<br>
 - [07/2025] &nbsp;One paper is accepted to ACM MM 2025.<br>
 - [06/2025] &nbsp;One paper is accepted to ICCV 2025.<br>
