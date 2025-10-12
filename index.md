@@ -27,8 +27,8 @@ Hello! I am a Ph.D. student at the Hong Kong University of Science and Technolog
 - **Xi'an Jiaotong University**, Collaborator, [Prof.Le Yang](https://www.yangle.cc/) and [Prof.Chao Shen](https://gr.xjtu.edu.cn/en/web/cshen), 11/2023 - now
 - **UNC-Chapel Hill&CityUHK**, Collaborator, [Dr.Jinhao Duan](https://jinhaoduan.github.io/) and [Prof.Kaidi Xu](https://drexel.edu/cci/about/directory/X/Xu-Kaidi/), 01/2019 - now
 - **Lawrence Livermore National Laboratory**, Collaborator,  [Dr.Bhavya Kailkhura](https://people.llnl.gov/kailkhura1),  04/2020 - now
-- **Northeastern University, MIT-IBM Waston AI Lab**,   Visiting Student,  [Prof.Xue "Shelley" Lin](https://coe.northeastern.edu/people/lin-xue/) and [Prof.Sijia Liu](https://lsjxjtu.github.io/),  01/2019 - 06/2019,   Boston, USA
-- **National University of Singapore**,    Visiting Student,   06/2018 - 08/2018,  Singapore
+- **Northeastern University, MIT-IBM Waston AI Lab**,   Visiting Student,  [Prof.Xue "Shelley" Lin](https://coe.northeastern.edu/people/lin-xue/) and [Prof.Sijia Liu](https://lsjxjtu.github.io/),  01/2019 - 06/2019
+- **National University of Singapore**,    Visiting Student,   06/2018 - 08/2018
 
 ## News
 <div style="height:300px; overflow-y:auto; border:1px solid #ddd; padding:15px; margin-bottom:30px; background-color:#ffffff;">
