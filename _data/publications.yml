@@ -1,5 +1,5 @@
 main:
-    - title: "Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models"
+  - title: "Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models"
     authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Yichi Wang*, Qiang Zhang, Kaidi Xu, Mengshu Sun, Jize Zhang, Chao Shen, Philip Torr, Jindong Gu†, Renjing Xu†"
     conference_short: "Build Safe Robot @ IROS 2025"
     conference: 'Build Safe Robot @ IROS 2025.'
