@@ -14,7 +14,7 @@ Hello! I am a Ph.D. student at the Hong Kong University of Science and Technolog
 - **the Hong Kong University of Science and Technology**,   Cross-campus Study Ph.D.,  [Prof.Jize Zhang](https://cejize.people.ust.hk/),  08/2025 - now,  HongKong, China SAR
 - **the Hong Kong University of Science and Technology, Guangzhou**,   Ph.D.,  [Prof.Renjing Xu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=97),  09/2022 - now,  Guangzhou, China
 - **Northeastern University**,   Ph.D., [Prof.Xue "Shelley" Lin](https://coe.northeastern.edu/people/lin-xue/),  09/2020 - 09/2022, Boston, USA
-- **Xi'an Jiaotong University**,   Master,   09/2017 - 07/2020,    Xi'an, China
+- **Xi'an Jiaotong University**,   Master, [Prof.Ping Wang](https://www.xjtu.edu.cn/jsnr.jsp?wbtreeid=1632&wbwbxjtuteacherid=1988),  09/2017 - 07/2020,    Xi'an, China
 - **Hebei University of Technology**,    B.E.,   09/2013 - 06/2017,   Tianjing, China
 
 ## Working Experience:
@@ -23,7 +23,7 @@ Hello! I am a Ph.D. student at the Hong Kong University of Science and Technolog
 - **Alibaba DAMO Lab-Itelligent Computing Lab**,   Research Intern,   08/2020 - 03/2021,  Shanghai, China
 
 ## Research Experience:
-- **University of Oxford**, Collaborator, [Dr.Jinodng Gu](https://jindonggu.github.io/) and [Prof.Philip Torr](https://eng.ox.ac.uk/people/philip-torr/), 12/2023 - now
+- **University of Oxford**, Collaborator, [Dr.Jindong Gu](https://jindonggu.github.io/) and [Prof.Philip Torr](https://eng.ox.ac.uk/people/philip-torr/), 12/2023 - now
 - **Xi'an Jiaotong University**, Collaborator, [Prof.Le Yang](https://www.yangle.cc/) and [Prof.Chao Shen](https://gr.xjtu.edu.cn/en/web/cshen), 11/2023 - now
 - **UNC-Chapel Hill&CityUHK**, Collaborator, [Dr.Jinhao Duan](https://jinhaoduan.github.io/) and [Prof.Kaidi Xu](https://drexel.edu/cci/about/directory/X/Xu-Kaidi/), 01/2019 - now
 - **Lawrence Livermore National Laboratory**, Collaborator,  [Dr.Bhavya Kailkhura](https://people.llnl.gov/kailkhura1),  04/2020 - now
