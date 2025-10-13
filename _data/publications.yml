@@ -6,13 +6,6 @@ main:
     pdf: "https://arxiv.org/abs/2501.13772"
     code: "https://researchtopic.github.io/Jailbreak-AudioBench_Page/"
     image: "./assets/img/NeurIPS2025.png"
-
-  - title: "Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models"
-    authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Yichi Wang, Linfeng Zhang, Kaidi Xu, Mengshu Sun, Xiaoshuai Hao†, Jindong Gu†, Renjing Xu†"
-    conference_short: "IJCAI Workshop"
-    conference: '<b><font color="#cc0000">[Best Student Paper Award]</font></b> The International Joint Conferences on Artificial Intelligence Workshop on Deepfake Detection, Localization, and Interpretability <strong>(IJCAI Workshop)</strong>, 2025.'
-    pdf: "https://arxiv.org/abs/2503.11519"
-    image: "./assets/img/IJCAIW.png"
     
   - title: "Transfer Attack for Bad and Good: Explain and Boost Adversarial Transferability across Multimodal Large Language Models"
     authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Jiayan Yang, Jinhao Duan, Yichi Wang, Jiahang Cao, Qiang Zhang, Le Yang, Kaidi Xu, Jindong Gu†, Renjing Xu†"
@@ -97,27 +90,6 @@ main:
     conference: "The International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong>, 2023."
     pdf: "https://www.ijcai.org/proceedings/2023/0079.pdf"
     image: "./assets/img/IJCAI2023.png"
-
-  - title: "More or Less (MoL): Defending against Multiple Perturbation Attacks on Deep Neural Networks through Model Ensemble and Compression"
-    authors: "<strong>Hao Cheng</strong>, Kaidi Xu, Zhengang Li, Pu Zhao, Chenan Wang, Xue Lin, Bhavya Kailkhura, Ryan Goldhahn"
-    conference_short: "WACV Workshop"
-    conference: 'IEEE/CVF Winter Conference on Applications of Computer Vision Workshops <strong>(WACVW)</strong>, 2022.'
-    pdf: "https://ieeexplore.ieee.org/abstract/document/9707590"
-    image: "./assets/img/WACVW.png"
-
-  - title: "Mixture of robust experts (more): A flexible defense against multiple perturbations"
-    authors: "<strong>Hao Cheng</strong>, Kaidi Xu, Chenan Wang, Xue Lin, Bhavya Kailkhura, Ryan Goldhahn"
-    conference_short: "ICLR Workshop"
-    conference: 'ICLR Robust and reliable machine learning in the real world Workshop <strong>(ICLR Workshop)</strong>, 2021.'
-    pdf: "https://iclr.cc/virtual/2021/workshop/2129"
-    image: "./assets/img/ICLRW.png"
-
-  - title: "Defending against backdoor attack on deep neural networks"
-    authors: "<strong>Hao Cheng</strong>, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Pu Zhao, Xue Lin"
-    conference_short: "KDD Workshop"
-    conference: 'KDD Workshop on Adversarial Learning Methods for Machine Learning and Data Mining <strong>(KDD AdvML)</strong>, 2019.'
-    pdf: "https://sites.google.com/view/advml/Home/advml-2019"
-    image: "./assets/img/KDDW.png"
 
   - title: "Adversarial robustness vs. model compression, or both?"
     authors: "Shaokai Ye*, Kaidi Xu*, Sijia Liu, <strong>Hao Cheng</strong>, Jan-Henrik Lambrechts, Huan Zhang, Aojun Zhou, Kaisheng Ma, Yanzhi Wang, Xue Lin"
