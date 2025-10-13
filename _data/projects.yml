@@ -1,22 +1,22 @@
 main:
   - title: "Manipulation Facing Threats: Evaluating Physical Vulnerabilities in End-to-End Vision Language Action Models"
     authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Yichi Wang*, Qiang Zhang, Kaidi Xu, Mengshu Sun, Jize Zhang, Chao Shen, Philip Torr, Jindong Gu†, Renjing Xu†"
-    conference_short: "Preprint"
+    conference_short: "Build Safe Robot @ IROS 2025"
     conference: 'Build Safe Robot @ IROS 2025.'
     pdf: "https://arxiv.org/pdf/2409.13174"
     image: "./assets/img/Proj2024.png"
 
   - title: "Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models"
     authors: "<strong>Hao Cheng*</strong>, Erjia Xiao*, Yichi Wang, Linfeng Zhang, Kaidi Xu, Mengshu Sun, Xiaoshuai Hao†, Jindong Gu†, Renjing Xu†"
-    conference_short: "Deepfake Detection, Localization, and Interpretability @ IJCAI 2025"
-    conference: '<b><font color="#cc0000">[Best Student Paper Award]</font></b> The International Joint Conferences on Artificial Intelligence Workshop on Deepfake Detection, Localization, and Interpretability <strong>(IJCAI Workshop)</strong>, 2025.'
+    conference_short: "DDLI @ IJCAI 2025"
+    conference: '<b><font color="#cc0000">[Best Student Paper Award]</font></b> The International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong> Workshop on Deepfake Detection, Localization, and Interpretability, 2025.'
     pdf: "https://arxiv.org/abs/2503.11519"
     image: "./assets/img/IJCAIW.png"
   
   - title: "Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots"
     authors: "Wei Cui, Haoyu Wang, Wenkang Qin, Yijie Guo, Gang Han, Wen Zhao, Jiahang Cao, Zhang Zhang, Jiaru Zhong, Jingkai Sun, Pihai Sun, Shuai Shi, Botuo Jiang, Jiahao Ma, Jiaxu Wang, <strong>Hao Cheng</strong>, Zhichao Liu, Yang Wang, Zheng Zhu, Guan Huang, Jian Tang, Qiang Zhang"
-    conference_short: "Preprint"
-    conference: 'PM2CE @ IROS 2025.'
+    conference_short: "PM2CE @ IROS 2025"
+    conference: 'IROS 2025 Workshop Perception and Planning for Mobile Manipulation in Changing Environments.'
     pdf: "https://arxiv.org/pdf/2507.20217"
     code: "https://humanoid-occupancy.github.io/"
     image: "./assets/img/H2.png"
