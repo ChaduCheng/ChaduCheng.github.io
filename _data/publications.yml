@@ -12,7 +12,7 @@ main:
     conference_short: "NeurIPS"
     conference: "NeurIPS Datasets and Benchmarks Track, 2025."
     pdf: "https://arxiv.org/abs/2501.13772"
-    code: "https://researchtopic.github.io/Jailbreak-AudioBench_Page/"
+    page: "https://researchtopic.github.io/Jailbreak-AudioBench_Page/"
     image: "./assets/img/NeurIPS2025.png"
 
   - title: "Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models"
