@@ -34,7 +34,7 @@ Hello! I am a Ph.D. student at the Hong Kong University of Science and Technolog
 <div style="height:300px; overflow-y:auto; border:1px solid #ddd; padding:15px; margin-bottom:30px; background-color:#ffffff;">
 - [10/2025] &nbsp;Two paper are accepted to Build Safe Robot@IROS 2025, PM2CE@IROS 2025.<br>
 - [09/2025] &nbsp;HKUST-Cardiff-MI-BAAI Team: ICCV VQualA Challenge <font color=Red>Top3 Winner</font>.<br>
-- [09/2025] &nbsp;Team Xiaomi EV-AD VLA: IROS 2025 <font color=Red>Top 2 Winner</font> of the RoboSense Social Navigation Track.<br>
+- [09/2025] &nbsp;Team Xiaomi EV-AD VLA: IROS 2025 <font color=Red>Top 2 Winner</font> and <font color=Red>Innovation Solution</font> of the RoboSense Social Navigation Track.<br>
 - [09/2025] &nbsp;One paper is accepted to NeurIPS 2025 D&B Track.<br>
 - [08/2025] &nbsp; <img width="20" height="18" alt="image" src="https://github.com/user-attachments/assets/063665ea-4273-4695-b418-1283cac87f58" />
 <font color=Red>Best student paper award</font> of IJCAI 2025 Workshop on Deepfake Detection, Localization, and Interpretability.<br>
