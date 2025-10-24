@@ -32,7 +32,8 @@ Hello! I am a Ph.D. student at the Hong Kong University of Science and Technolog
 
 ## News
 <div style="height:300px; overflow-y:auto; border:1px solid #ddd; padding:15px; margin-bottom:30px; background-color:#ffffff;">
-- [10/2025] &nbsp;Two paper are accepted to Build Safe Robot@IROS 2025, PM2CE@IROS 2025.<br>
+- [10/2025] &nbsp;One paper is accepted to Build Safe Robot@IROS 2025 as <font color=Red>Lighted Oral</font>.<br>
+- [10/2025] &nbsp;One paper is accepted to PM2CE@IROS 2025.<br>
 - [09/2025] &nbsp;HKUST-Cardiff-MI-BAAI Team: ICCV VQualA Challenge <font color=Red>Top3 Winner</font>.<br>
 - [09/2025] &nbsp;Team Xiaomi EV-AD VLA: IROS 2025 <font color=Red>Top 2 Winner</font> and <font color=Red>Innovation Solution</font> of the RoboSense Social Navigation Track.<br>
 - [09/2025] &nbsp;One paper is accepted to NeurIPS 2025 D&B Track.<br>
