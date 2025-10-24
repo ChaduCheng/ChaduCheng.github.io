@@ -4,6 +4,7 @@ main:
     conference_short: "Build Safe Robot @ IROS 2025"
     conference: '<b><font color="#cc0000">[Lighted Oral]</font></b> Build Safe Robot @ IROS 2025.'
     pdf: "https://arxiv.org/pdf/2409.13174"
+    page: "https://building-safe-robots-workshop.github.io/program/"
     image: "./assets/img/Proj2024.png"
 
   - title: "Jailbreak-AudioBench: In-Depth Evaluation and Analysis of Jailbreak Threats for Large Audio Language Models"
